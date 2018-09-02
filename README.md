@@ -3,6 +3,8 @@ Random articles found on the Internet of interest for developing electron applic
 
 ## Security
 
+https://electronjs.org/docs/tutorial/security#1-only-load-secure-content
+
 https://tinydew4.gitbooks.io/electron/content/tutorial/security.html
 
 https://medium.com/cameron-nokes/how-to-securely-store-sensitive-information-in-electron-with-node-keytar-51af99f1cfc4
