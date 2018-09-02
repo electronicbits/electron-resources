@@ -1,6 +1,24 @@
 # random-electron-resources
 Random list of articles found on the Internet of interest for developing electron applications
 
+## CI/CD
+
+https://electronjs.org/docs/tutorial/testing-on-headless-ci
+
+## Packaging and Distribution
+
+https://github.com/electron/electron/blob/master/docs/tutorial/application-distribution.md
+
+https://github.com/electron-userland/electron-forge
+
+https://electronforge.io/
+
+https://github.com/electron-userland/electron-builder
+
+https://github.com/electron-userland/electron-packager
+
+
+
 ## Sample apps
 
 https://github.com/hokein/electron-sample-apps
