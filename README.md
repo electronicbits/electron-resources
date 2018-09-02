@@ -12,3 +12,5 @@ https://thenextweb.com/security/2018/05/14/electron-vulnerability-could-let-hack
 https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf
 
 https://www.bleepingcomputer.com/news/security/security-flaw-impacts-electron-based-apps/
+
+https://www.zdnet.com/article/electron-critical-vulnerability-strikes-app-developers/
