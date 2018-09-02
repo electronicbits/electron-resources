@@ -1,5 +1,5 @@
 # random-electron-resources
-Random articles found on the Internet of interest for developing electron applications
+Random list of articles found on the Internet of interest for developing electron applications
 
 ## Security
 
