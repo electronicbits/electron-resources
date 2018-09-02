@@ -1,6 +1,11 @@
 # random-electron-resources
 Random list of articles found on the Internet of interest for developing electron applications
 
+## General
+
+How to Build an Electron Desktop App in JavaScript: Multithreading, SQLite, Native Modules, and other Common Pain Points
+https://medium.freecodecamp.org/how-to-build-an-electron-desktop-app-in-javascript-multithreading-sqlite-native-modules-and-1679d5ec0ac
+
 ## CI/CD
 
 https://electronjs.org/docs/tutorial/testing-on-headless-ci
