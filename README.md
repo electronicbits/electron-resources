@@ -1,6 +1,10 @@
 # random-electron-resources
 Random list of articles found on the Internet of interest for developing electron applications
 
+## Sample apps
+
+https://github.com/hokein/electron-sample-apps
+
 ## Security
 
 https://electronjs.org/docs/tutorial/security#1-only-load-secure-content
