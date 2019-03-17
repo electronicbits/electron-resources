@@ -1,7 +1,7 @@
 # random-electron-resources
 Random list of articles found on the Internet of interest for developing electron applications
 
-## All doc
+## All docs
 
 https://electronjs.org/docs/all
 
